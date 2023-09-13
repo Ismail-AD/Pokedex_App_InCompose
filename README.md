@@ -1,4 +1,4 @@
-                                                              https://github.com/Ismail-AD/Pokedex_App_InCompose/assets/99780212/9a9f7667-64c3-4eb0-9851-240c8570379a
+https://github.com/Ismail-AD/Pokedex_App_InCompose/assets/99780212/9a9f7667-64c3-4eb0-9851-240c8570379a
 
 **Introducing the Ultimate Pokedex App! 🌟**
 
