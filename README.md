@@ -8,13 +8,13 @@ Discover a world of Pokémon like never before with our sleek and efficient Poke
 
 **💾 Data Caching**: We've integrated Room for data caching, ensuring lightning-fast access to your favorite Pokémon even when you're offline. Your data is always at your fingertips.
 
-**🏛️ MVVM Architecture**: Our app is built on a rock-solid MVVM architecture, ensuring clean code and a robust structure for the ultimate user experience.
+**🏛️ MVVM Architecture**: App is built on MVVM architecture, ensuring clean and maintainable code.
 
 **🛠️ Hilt Dependency Injection**: With Hilt, our app manages dependencies effortlessly, making sure everything works seamlessly behind the scenes.
 
-**🌄 Stunning Images**: Thanks to Coil, our app displays Pokémon images in stunning quality. Get up close and personal with your favorite creatures in amazing detail.
+**🌄 Stunning Images**: Thanks to Coil Image Loading Library, our app displays Pokémon images in stunning quality. Get up close and personal with your favorite creatures in amazing detail.
 
-**📡 Network Calls**: We've harnessed the power of Retrofit for efficient network calls, ensuring that you get real-time updates and accurate information about each Pokémon.
+**📡 Network Calls**: Utilizes Retrofit Library to make efficient network calls to retrieve Pokémon data from external APIs. This ensures that the app always offers up-to-date information.
 
 **🔍 Search Functionality**: Looking for a specific Pokémon? Our app comes equipped with a powerful search feature, making it a breeze to find and learn about any Pokémon you desire.
 
